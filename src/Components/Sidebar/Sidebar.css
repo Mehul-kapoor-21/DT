@@ -1,0 +1,82 @@
+.right-side-1{
+    width: 20px;
+    height: 250px;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+}
+.right-side-2{
+    width: 24px;
+    height: 250px;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.right-side-3{
+    width: 10px;
+    height: 100px;
+    position: absolute;
+    top: 95px;
+    right: 26px;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-weight: 400;
+    
+}
+.right-side-4{
+    width: 10px;
+    height: 100px;
+    position: absolute;
+    top: 205px;
+    right: 26px;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.cross-mark{
+    position: absolute;
+    top: 70px;
+    right: 26px;
+    font-size: 18px;
+    color: #FFFFFF;
+    
+}
+
+.left-side-1{
+    position: absolute;
+    width: 70px;
+    height: 400px;
+    top: 60px;
+    left: 0px;
+    border-radius: 0px 20px 20px 15px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.left-side-2{
+    width: 100%;
+    height: 40px;
+    border-radius: 0px 20px 0px 0px;
+    background-color: #000000;
+}
+
+.left-side-3{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #0029FF;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: #0029FF;
+    font-size: 19px;
+}
